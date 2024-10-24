@@ -31,7 +31,7 @@ This boilerplate is **actively being developed** and will soon include the follo
 To use this boilerplate, simply clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/nestjs-postgres-boilerplate.git
+git clone https://github.com/saurabh3569/nestjs-postgres-boilerplate.git
 cd nestjs-postgres-boilerplate
 npm install
 ```
